@@ -1,0 +1,5 @@
+{
+  "name": "HydroMate — Offline Water Reminder & Tracker",
+  "description": "A fully offline Progressive Web App (PWA) to help you track your daily water intake, set goals, and receive reminders. It works entirely in your browser using local storage, ensuring your data is private and always available, even without an internet connection.",
+  "requestFramePermissions": []
+}
